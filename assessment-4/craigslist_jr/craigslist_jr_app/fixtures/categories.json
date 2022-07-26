@@ -1,0 +1,58 @@
+[
+    {
+        "model" : "craigslist_jr_app.category",
+        "pk" : 1,
+        "fields" : {
+            "name": "Community",
+            "description": "Space for Community Members to Post Community Wide Content"
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.category",
+        "pk" : 2,
+        "fields" : {
+            "name": "Services",
+            "description": "Advertising for Local Businesses"
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.category",
+        "pk" : 3,
+        "fields" : {
+            "name": "Discussion Forums",
+            "description": "Forums to Discuss Specific Topics With Local Community Members"
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.category",
+        "pk" : 4,
+        "fields" : {
+            "name": "Housing",
+            "description": "Find or offer housing"
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.category",
+        "pk" : 5,
+        "fields" : {
+            "name": "For Sale",
+            "description": "Buy, Sell, and Trade Locally"
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.category",
+        "pk" : 6,
+        "fields" : {
+            "name": "Jobs",
+            "description": "Find a New Job or the Next Great Hire"
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.category",
+        "pk" : 7,
+        "fields" : {
+            "name": "Gigs",
+            "description": "Find Short Term Opportunities"
+        }
+    }
+]

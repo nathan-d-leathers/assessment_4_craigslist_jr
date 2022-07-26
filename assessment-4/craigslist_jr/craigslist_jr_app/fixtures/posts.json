@@ -1,0 +1,191 @@
+[
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 1,
+        "fields" : {
+            "title": "Lost Dog",
+            "description": "Husky found on Maple Dr. No chip but has a collar with name 'Balto' on it. If you know the owner please contact me at 555-555-5555.",
+            "category": 1
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 2,
+        "fields" : {
+            "title": "Volunteers needed for canned food drive",
+            "description": "Community Kitchen is searching for a few volunteers for Saturday's seasonal canned food drive. We have shifts available for mobile can collection and the drop off tent. Please contact Sam by Thursday to confirm when amd where you are able to help.",
+            "category": 1
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 3,
+        "fields" : {
+            "title": "Sign ups for the regional softball league are open now!",
+            "description": "Miss the days of your youth playing ball in the schoolyard? You are not alone! Join your local 30+ y/o softball league. Practice is every Tuesday and Thursday from 6-8pm with games on Sundays. Contact Jeff for more information.",
+            "category": 1
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 4,
+        "fields" : {
+            "title": "Got Junk to Move???",
+            "description": "Two Dudes in a Truck are here to help! Cash only, no weekend work or pianos. Message us for more info.",
+            "category": 2
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 5,
+        "fields" : {
+            "title": "Spanish Tutor 4 Hire",
+            "description": "¿Dificultades para aprender español? Jimena can help! Available M,W,F from 3-8PM. Cash or Venmo.",
+            "category": 2
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 6,
+        "fields" : {
+            "title": "Computer Running Slow?",
+            "description": "One Dude in a Garage is here to help. Wifi, Home Office, Networking, TV, Audio Equipment, I do it all! Cash only, no weekend work. Message for more info.",
+            "category": 2
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 7,
+        "fields" : {
+            "title": "Health Advice",
+            "description": "i hate walnuts",
+            "category": 3
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 8,
+        "fields" : {
+            "title": "Spirituality",
+            "description": "God is both DEAD and ALIVE! and I CAN PROVE IT!!!",
+            "category": 3
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 9,
+        "fields" : {
+            "title": "Looking 4 Love?",
+            "description": "One dude in a truck is here to help. Message for more details.",
+            "category": 3
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 10,
+        "fields" : {
+            "title": "Roommate Wanted",
+            "description": "Room to rent in 2 bedroom apartment near the university. $1,000 per month, rent due on the 1st, Private bathroom included. Text Shelly for more information.",
+            "category": 4
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 11,
+        "fields" : {
+            "title": "Looking for cat friendly fur-ever home! <3",
+            "description": "In search of 3 bedroom house that is non allergenic and cat *meow meow* friendly. Can afford $500 a month for rent, but no more. Call Dolores, I promise to be a purrrrfect tenant.",
+            "category": 4
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 12,
+        "fields" : {
+            "title": "Too much stuff cluttering up your beautiful home?",
+            "description": "One dude and a storage locker can help. Have a 20X20 unit that I am willing split for the right price. No weekend work, no pianos. Message for more details.",
+            "category": 4
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 13,
+        "fields" : {
+            "title": "VHS Tapes for Sale",
+            "description": "Over 3,000 tapes to choose from, all in original boxs and in perfect working order. Armageddon, Titanic, Disney Films for the kids, Action, Horror, Sci-Fi, if it was made before 2003 I have it! $1 per tape, or 20 tapes for $10. Call Brian for more info.",
+            "category": 5
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 14,
+        "fields" : {
+            "title": "Tractor Parts, Scrap Metal",
+            "description": " $1 Farm tractor parts available for purchase. Minor rust on some (most) components. Contact Leory for more information.",
+            "category": 5
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 15,
+        "fields" : {
+            "title": "Looking to pick up the Piano?",
+            "description": "One dude in a storage unit is here to help. Baby Grand Yamaha, plays great but I need to free up space for some other things, so this beauty's gotta go. $10,000. Need to move it yourself. Cash only, no weekend work. Message for more info.",
+            "category": 5
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 16,
+        "fields" : {
+            "title": "Looking to make $$$ from Home???",
+            "description": "Fun Wealth Home Money Management Be Your Own Boss Executive Luxury Vacation New Car Big Bank Account Sell From the Comfort Of Your Own Home Online Today",
+            "category": 6
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 17,
+        "fields" : {
+            "title": "Bartender Urgently Needed",
+            "description": "The Pour House is in desperate need of a second bartender as our recent homebrew 'Recursion IPA' has taken the city by storm! No previous experience needed. Must be able to get SafeServe Certificate within 6 months of hire. Contact Janet for more info or swing by The Pour House on Central Ave before 10PM.",
+            "category": 6
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 18,
+        "fields" : {
+            "title": "Looking a job?",
+            "description": "Two Dudes in a Truck can help. Looking to add two additional members to our team. Most be a motivated self starter. Wages negotiable (cash only). Only Weekend Work Available. Help us become Four Dudes in a Truck  Message for more details.",
+            "category": 6
+        }
+    },
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 19,
+        "fields" : {
+            "title": "Help needed setting up for the County Fair",
+            "description": "Help required setting and breaking down tents and barriers for this years festivities. Must be able to work both set up and break down and lift up to 50 lbs. $8.25 an hour, no cigarette breaks.",
+            "category": 7
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 20,
+        "fields" : {
+            "title": "Help my dad out?",
+            "description": "Dad's a hoarder and we need his stuff thrown out. He's currently in therapy and will be away for the next month. Rubber gloves required, ability to lift up to 50 lbs. $10.00 an hour plus you can keep anything we decide to throw out. Contact Maggie to more information.",
+            "category": 7
+        }
+    },    
+    {
+        "model" : "craigslist_jr_app.post",
+        "pk" : 21,
+        "fields" : {
+            "title": "Looking for a few guys and a vehicle",
+            "description": "Title says it all! I'm in the process of moving and I'm in need of some help. Also looking for a large vehicle to move things with. I can pay in cash, no weekend work required. Nothing too heavy other than my piano. Message for more details.",
+            "category": 7
+        }
+    }
+]

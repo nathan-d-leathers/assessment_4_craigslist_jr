@@ -1,0 +1,18 @@
+{% extends "craigslist_jr_app/index.html" %}
+
+{% block content %}
+
+<h2>Categories</h2>
+<ul>
+{% for category in categories %}
+<li><h3>
+<a href="{% url 'list_posts' category_id=category.id %}">{{category.name}}: {{category.description}}</a>
+</h3></li>
+{% endfor %}
+</ul>
+<br>
+<p>Add a New Category: <button onClick="location.href='{% url 'add_category' %}'">New</button></p>
+
+{% endblock %}
+
+

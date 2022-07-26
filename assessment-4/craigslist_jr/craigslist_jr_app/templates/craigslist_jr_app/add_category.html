@@ -1,0 +1,22 @@
+{% extends "craigslist_jr_app/index.html" %}
+
+{% block content %}
+
+<h1>Add a New Category</h1>
+<p>Note: Duplicate Categories will not be accepted</p>
+<br>
+<p>
+<label>Name:</label>
+<input id = "newName" required></input>
+</p>
+<p>Description:</p>
+<textarea rows="5" cols="50" id = "newDescription"></textarea>
+<br>
+<button onClick="{saveCategory();}">Submit</button>
+<br>
+<p></p>
+<br>
+<p>Cancel and Go Back to Categories <button onclick="window.location.href='../../categories/'">Cancel</button></p>
+
+
+{% endblock %}

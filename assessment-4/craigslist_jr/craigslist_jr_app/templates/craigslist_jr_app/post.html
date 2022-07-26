@@ -1,0 +1,11 @@
+{% extends "craigslist_jr_app/index.html" %}
+
+{% block content %}
+<br>
+<h1>{{post.title}}</h1>
+<h3>{{post.description}}</h3>
+<br>
+<button onClick="location.href='{% url 'edit_post' category_id=post.category.id post_id=post.id %}'">Edit Post</button>
+<br>
+<p><button onclick="window.location.href='../../'">Back to Posts</button></p>
+{% endblock %} 

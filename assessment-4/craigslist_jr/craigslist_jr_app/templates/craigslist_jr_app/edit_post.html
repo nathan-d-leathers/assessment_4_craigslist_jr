@@ -1,0 +1,21 @@
+{% extends "craigslist_jr_app/index.html" %}
+
+{% block content %}
+
+<h1>Edit Current Post</h1>
+<p>Cancel and Go Back to Posts <button onclick="window.location.href='../../'">Cancel</button></p>
+<br>
+<label>Title:</label>
+<input id = "newTitle" value ="{{post_title}}"></input>
+<br>
+<label>Description:</label>
+<input id = "newDescription" value ="{{post_description}}"></input>
+<br>
+<p>Save Changes <button onClick="{editPost();}">Submit</button></p>
+<br>
+<p></p>
+<br>
+<h3><b>Delete Post</b></h3>
+<p style="color:red">Warning! This can't be undone! <button onClick="{deletePost();}">Delete</button></p>
+
+{% endblock %}

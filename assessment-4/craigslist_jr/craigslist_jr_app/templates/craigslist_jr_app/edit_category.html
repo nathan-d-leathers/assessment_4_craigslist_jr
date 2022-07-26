@@ -1,0 +1,23 @@
+{% extends "craigslist_jr_app/index.html" %}
+
+{% block content %}
+
+<h1>Edit Current Category</h1>
+<p>Note: Duplicate Categories will not be accepted</p>
+<p>Cancel and Go Back to Categories <button onclick="window.location.href='../../'">Cancel</button></p>
+<br>
+<label>Name:</label>
+<input id = "newName" value ="{{category_name}}"></input>
+<br>
+<label>Description:</label>
+<input id = "newDescription" value ="{{category_description}}"></input>
+<br>
+<p>Save Changes <button onClick="{editCategory();}">Submit</button></p>
+<br>
+<p></p>
+<br>
+<h3><b>Delete Category</b></h3>
+<p style="color:red">Warning! This can't be undone! <button onClick="{deleteCategory();}">Delete</button></p>
+
+
+{% endblock %}
